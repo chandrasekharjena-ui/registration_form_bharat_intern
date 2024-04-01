@@ -6,17 +6,17 @@
 
 
 ## language used
-Technology for frontend
+### Technology for frontend
 
 •	HTML
 
 •	CSS
 
-Technology for Backend
+### Technology for Backend
 
 •	NodeJS
 
-Technology for Database
+### Technology for Database
  
 •	MongoDB
 
