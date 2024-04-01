@@ -74,7 +74,7 @@ Server runs in port number localhost:3000
 
 After inserting the data in frontend page, it will store in above database file.
 
-## Conclusion
+## How it works
 
 After starting the server, we can access the page in (https://localhost:3000). Then we will insert our registration credential in the form after submitting the form it will store the credentials in the MongoDB database(mongodb://localhost:27017/Database),
 Then a successful page appears.
